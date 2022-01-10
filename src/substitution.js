@@ -28,7 +28,7 @@ const substitutionModule = (function () {
     const characterStaging = []
     for(let i = 0; i < input.length; i++) {
       if (encode) {
-        const index = characterIndex[input[i]]
+        const index = characterIndex[input[i].toLowerCase()]
         if (input[i] !== " ") {
           characterStaging.push(alphabet[index])
         } else {
