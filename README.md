@@ -1,4 +1,4 @@
-## Decoder_Ring_Project
+## Decoder Ring Project
 
 Fun Thinkful project where I enabled functionality of three ciphers. 
 
