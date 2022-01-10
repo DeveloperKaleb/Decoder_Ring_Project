@@ -1,6 +1,6 @@
 ## Decoder Ring Project
 
-Fun Thinkful project where I enabled functionality of three ciphers. 
+A fun Thinkful project where I enabled functionality of three ciphers. 
 
 Ciphers are a fun addition to interpersonal communication and these three would work great for any desired scenario.
 
